@@ -1,0 +1,10 @@
+W za³¹czniku macie sprawozdanie, które musicie uzupe³niæ. Na pocz¹tek przerabiamy tylko pierwsz¹ czêœæ z SVN
+a potem GIT.
+GIT-a zostawiam wam do pracy w³asnej. 
+Zarejestrowaæ siê na Githubie, a potem na SVN (Perforce Helix TeamHub) i przerobimy na pocz¹tek SVN.
+  
+
+
+
+
+
